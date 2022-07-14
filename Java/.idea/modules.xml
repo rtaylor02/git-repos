@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ByteIntShortLong/ByteIntShortLong.iml" filepath="$PROJECT_DIR$/ByteIntShortLong/ByteIntShortLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JNA_Example/JNA_Example.iml" filepath="$PROJECT_DIR$/JNA_Example/JNA_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy/Udemy.iml" filepath="$PROJECT_DIR$/Udemy/Udemy.iml" />
+    </modules>
+  </component>
+</project>
