@@ -4,7 +4,7 @@ public abstract class Animal {
     private int legs;
 
     public Animal(int legs) {
-        System.out.println("Animal(int)");
+        System.out.println("Bird(int)");
         this.legs = legs;
     }
 
