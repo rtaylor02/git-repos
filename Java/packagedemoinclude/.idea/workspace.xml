@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e021471c-291b-487f-bec8-04f9dd9f582c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/Udemy_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Javonet_1_5_155.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/jna.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/.idea/libraries/Javonet_1_5_155.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/ByteIntShortLong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/Javonet-1.5.155.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/src/com/Interface/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/src/com/Interface/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/src/com/billsburger/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/src/com/mastermindsprogramming/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/src/com/mobilephone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteIntShortLong/src/com/reversearraychallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNA_Example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNA_Example/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNA_Example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNA_Example/JNA_Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNA_Example/src/JNA_Example/ITrioPcMotionLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNA_Example/src/JNA_Example/MyFirstJNAProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/Udemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/section/eleven/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/section/ten/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/section/ten/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/section/ten/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/section/ten/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/section/ten/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dm/src/aa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../packagedemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../packagedemo/.idea/artifacts/packagedemo_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../packagedemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../packagedemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../packagedemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../packagedemo/packagedemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../packagedemo/src/mylibrary/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/packagedemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packagedemoinclude.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherpackage/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../packagedemo/out/artifacts/packagedemo_jar/packagedemo.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="otherpackage.Main" />
+      <module name="packagedemoinclude" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="otherpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e021471c-291b-487f-bec8-04f9dd9f582c" name="Changes" comment="" />
+      <created>1648126108859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648126108859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/otherpackage/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
