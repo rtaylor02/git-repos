@@ -50,7 +50,7 @@ public class Main {
         while(!success) {
             try {
                 System.out.println("in try");
-                if(Math.random() > 0.5) {
+                if(Math.random() > 0.1) {
                     System.out.println("throwing FileNotFoundException");
                     throw new FileNotFoundException();
                 }

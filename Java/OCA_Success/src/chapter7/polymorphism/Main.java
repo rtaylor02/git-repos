@@ -2,10 +2,10 @@ package chapter7.polymorphism;
 
 class Animal {
     int number = 1;
-    static String staticString = "Animal";
+    static String staticString = "Bird";
 
     public static void eat() {
-        System.out.println("Animal eats");
+        System.out.println("Bird eats");
     }
 
     public void animalSound() {
@@ -96,7 +96,7 @@ public class Main {
         System.out.println("myDog.staticString = " + myDog.staticString);
         System.out.println("myGoldenRetrieve.staticString = " + myGoldenRetrieve.staticString);
         System.out.println("*** calling via class ***");
-        System.out.println("Animal.staticString = " + Animal.staticString);
+        System.out.println("Bird.staticString = " + Animal.staticString);
         System.out.println("Pig.staticString = " + Pig.staticString);
         System.out.println("Dog.staticString = " + Dog.staticString);
         System.out.println("GoldenRetriever.staticString = " + GoldenRetriever.staticString);
