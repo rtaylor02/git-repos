@@ -1,10 +1,17 @@
 package com.rtaylor02.rest.webservices.restfulwebservices.users;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
 import java.util.Date;
 
+//@ApiModel(description = "All details about the user")
+@Entity
 public class User {
+    @Id
+    @GeneratedValue
     private Integer id;
     @Size(min = 2,message = "Name must be min 2 characters")
     private String name;

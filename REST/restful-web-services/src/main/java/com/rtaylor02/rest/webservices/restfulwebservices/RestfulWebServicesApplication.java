@@ -21,6 +21,7 @@ public class RestfulWebServicesApplication {
 //		localeResolver.setDefaultLocale(Locale.US);
 //		return localeResolver;
 
+		// Set default locale
 		AcceptHeaderLocaleResolver localeResolver = new AcceptHeaderLocaleResolver();
 		localeResolver.setDefaultLocale(Locale.US);
 		return localeResolver;
